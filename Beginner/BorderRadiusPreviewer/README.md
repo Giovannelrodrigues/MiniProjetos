@@ -3,8 +3,8 @@
 
 ##BorderRadius
 
-![imagem do projeto]()
+![imagem do projeto]https://github.com/Giovannelrodrigues/MiniProjetos/blob/main/Beginner/BorderRadiusPreviewer/Capturar.JPG)
 
 
 ##Funcionalidade
-recebele valores em pixeis, e devolve um previewer de como ficaria o border-radius e devolve comando para copiar
+    receble valores em pixeis, e devolve um previewer de como ficaria o border-radius e devolve comando para copiar
