@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.canvas{
+    width: 400px;
+    height: 400px;
+    border: 2px solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+
+.canvas h1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.canvas h2{
+    position: absolute;
+    width: 100%;
+    top: 60px;
+    left: 0;
+}
+
+.canvas form{
+    display: flex;
+    flex-direction: column;
+}
+
+.canvas form label{
+    padding-top: 2rem;
+}
+
+.canvas form input{
+    width: 10rem;
+    height: 2rem;
+}
+
+
+.btn{
+    padding-top: 2rem;
+}
+.btn button{
+    padding: 0.3rem;
+    font-size: 1.5rem;
+    border: 2px solid ;
+}
+
+
