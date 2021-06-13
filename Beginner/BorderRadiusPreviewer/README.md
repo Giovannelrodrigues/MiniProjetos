@@ -3,7 +3,7 @@
 
 ##BorderRadius
 
-![imagem do projeto]https://github.com/Giovannelrodrigues/MiniProjetos/blob/main/Beginner/BorderRadiusPreviewer/Capturar.JPG)
+![imagem do projeto](https://github.com/Giovannelrodrigues/MiniProjetos/blob/main/Beginner/BorderRadiusPreviewer/Capturar.JPG)
 
 
 ##Funcionalidade
