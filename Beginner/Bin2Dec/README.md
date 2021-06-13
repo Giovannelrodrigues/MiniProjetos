@@ -3,7 +3,7 @@
 
 ##BorderRadius
 
-![imagem do projeto]()
+![imagem do projeto](https://github.com/Giovannelrodrigues/MiniProjetos/blob/main/Beginner/Bin2Dec/Capturar.JPG)
 
 
 ##Funcionalidade
